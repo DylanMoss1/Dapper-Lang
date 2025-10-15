@@ -1,1 +1,1 @@
-Work in progress compiler; watch this space.
+Work-in-progress compiler; watch this space.
